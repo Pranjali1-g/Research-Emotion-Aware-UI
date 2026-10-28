@@ -1,0 +1,116 @@
+[
+  {
+    "id": "D01",
+    "title": "Preparing questions for a care appointment",
+    "source": "Illustrative demo note · replace with a vetted, versioned source",
+    "text": "Write down the questions that matter most to you, bring a current medication list, and ask the care team who to contact with follow-up questions.",
+    "tags": [
+      "doctor",
+      "appointment",
+      "questions",
+      "oncologist",
+      "care"
+    ]
+  },
+  {
+    "id": "D02",
+    "title": "Discussing treatment decisions with clinicians",
+    "source": "Illustrative demo note · not a treatment guideline",
+    "text": "Treatment choices depend on individual clinical details and preferences. Ask the oncology team to explain expected benefits, risks, alternatives, and uncertainties before making a decision.",
+    "tags": [
+      "treatment",
+      "therapy",
+      "chemotherapy",
+      "radiation",
+      "immunotherapy",
+      "decision"
+    ]
+  },
+  {
+    "id": "D03",
+    "title": "Reporting symptoms and side effects",
+    "source": "Illustrative demo note · not an emergency triage protocol",
+    "text": "Tell the care team about new or worsening symptoms and ask which symptoms require urgent attention and which contact route to use after hours.",
+    "tags": [
+      "symptom",
+      "side effect",
+      "pain",
+      "nausea",
+      "fatigue",
+      "care team"
+    ]
+  },
+  {
+    "id": "D04",
+    "title": "Emotional and psychosocial support",
+    "source": "Illustrative demo note · general supportive wording",
+    "text": "Fear, uncertainty, sadness, and feeling overwhelmed can arise during cancer care. Consider sharing how you feel with a trusted person and asking the care team about counseling or support services.",
+    "tags": [
+      "fear",
+      "frightened",
+      "anxiety",
+      "sad",
+      "overwhelmed",
+      "support",
+      "emotional"
+    ]
+  },
+  {
+    "id": "D05",
+    "title": "Support for family members and caregivers",
+    "source": "Illustrative demo note · general supportive wording",
+    "text": "Ask the person what kind of help would be useful. Practical help may include notes for appointments, transport, meals, or helping them find information from trusted organizations.",
+    "tags": [
+      "caregiver",
+      "family",
+      "mother",
+      "father",
+      "friend",
+      "support"
+    ]
+  },
+  {
+    "id": "D06",
+    "title": "Reliable cancer information",
+    "source": "Illustrative demo note · verify information with a qualified professional",
+    "text": "Prefer established cancer organizations and healthcare institutions for general educational material. Online information cannot determine what is appropriate for an individual case.",
+    "tags": [
+      "cancer",
+      "information",
+      "diagnosis",
+      "explain",
+      "reliable",
+      "general"
+    ]
+  },
+  {
+    "id": "D07",
+    "title": "Medication and treatment changes",
+    "source": "Illustrative demo note · safety boundary",
+    "text": "Do not use this prototype to decide whether to start, stop, or change a medicine or treatment. Contact the oncology team or pharmacist for individualized advice.",
+    "tags": [
+      "medication",
+      "dose",
+      "dosage",
+      "stop",
+      "change",
+      "chemotherapy",
+      "prescription"
+    ]
+  },
+  {
+    "id": "D08",
+    "title": "Urgent or immediate danger",
+    "source": "Illustrative demo note · not a clinical triage rule",
+    "text": "When a person may be in immediate danger, the prototype should not continue ordinary generation. Direct the person to local emergency services or an emergency department and encourage help from someone nearby.",
+    "tags": [
+      "emergency",
+      "urgent",
+      "danger",
+      "breathe",
+      "chest pain",
+      "self harm",
+      "suicide"
+    ]
+  }
+]
